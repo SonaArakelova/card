@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: 0;
+    font-family: "Varta", sans-serif;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.avatar{
+  vertical-align: middle;
+  width: 20%;
+  height: 150px;
+  border-radius: 50%;
+}
